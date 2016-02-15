@@ -1,7 +1,5 @@
 /* HUFFMAN ENCODING Implementation in C */
 /*The program takes a string from user as input and encodes it for transmission*/
-/*KARAN WADHAWAN 11ITU046
-TWINKLE SHARMA 11ITU084*/
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
